@@ -1,0 +1,18 @@
+{
+    "name": "hamid1ganhe2s/payment",
+    "description": "Payment for Bank",
+    "authors": [
+        {
+            "name": "Hamid Yeganehdoost",
+            "email": "hamid1ganhe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hamid1ganhe2s\\Payment\\":"src/"
+        }
+    },
+    "require": {
+         "illuminate/support":">=6.0.0"
+    }
+}
